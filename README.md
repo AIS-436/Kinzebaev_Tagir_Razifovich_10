@@ -189,6 +189,5 @@ systemctl reload nginx # Перезагрузка Nginx
 
 - **Internet Security Research Group (ISRG).** Let's Encrypt: A Free, Automated, and Open Certificate Authority [Электронный ресурс]. - 2025. - URL: <https://letsencrypt.org/> (дата обращения: 30.11.2025)
 
-**Реферат размещен по ссылке:** [**https://github.com/AIS-436/Kinzebaev_Tagir_Razifovich_10**](https://github.com/AIS-436/Kinzebaev_Tagir_Razifovich_10)
 
 **Реферат размещен по ссылке:** [**https://github.com/AIS-436/Kinzebaev_Tagir_Razifovich_10**](https://github.com/AIS-436/Kinzebaev_Tagir_Razifovich_10)
