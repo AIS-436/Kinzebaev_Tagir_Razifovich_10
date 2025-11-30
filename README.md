@@ -153,4 +153,4 @@ UX (User Experience) - это более широкий термин: это о�
 - **Baymard Institute.** UX Research Findings & E-Commerce Guidelines \[Электронный ресурс\]. - URL: <https://baymard.com/> (дата обращения: 14.11.2025).
 - **Microsoft Learn.** UI/UX Design Principles \[Электронный ресурс\] // Документация Microsoft. - URL: <https://learn.microsoft.com/ru-ru/design/> (дата обращения: 14.11.2025).
 
-**Реферат размещен по ссылке:** [**https://github.com/AIS-436/Giniiatov_Anvar_Ilnurovich_29**](https://github.com/AIS-436/Giniiatov_Anvar_Ilnurovich_29)
+**Реферат размещен по ссылке:** [**https://github.com/AIS-436/Kinzebaev_Tagir_Razifovich_10**](https://github.com/AIS-436/Kinzebaev_Tagir_Razifovich_10)
